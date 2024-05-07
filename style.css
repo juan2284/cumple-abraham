@@ -33,7 +33,7 @@ h2 {
 .carga{
 	width: 100vw;
 	height: 100vh;
-	background-image: #222222;
+	background: #222222;
 	position: fixed;
 	top: 0;
   padding: 0;
